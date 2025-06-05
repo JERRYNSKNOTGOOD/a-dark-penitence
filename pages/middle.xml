@@ -16,7 +16,7 @@
     font-size="70"
     on_click = "set(pontos, $pontos + 1)"
   />
-    <fab-if/>
+  </fab-if>
 <fab-if when="$pontos >= 10">
   <agent
     id="next_page_text"
