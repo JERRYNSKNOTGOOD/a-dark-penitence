@@ -1,7 +1,7 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Os dias no inferno são piores que todos os dias juntos na Terra... Se eu tivesse uma segunda chance de fazer tudo diferente..."
+    text="$fala"
     color="white"
     x="0"
     y="480"
