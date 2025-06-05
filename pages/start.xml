@@ -3,17 +3,17 @@
     id="teste"
     text="$fala"
     color="white"
-    x="center"
+    x="0"
     y="480"
-    font-size="70"
+    font-size="25"
   />
    
   <agent
     id="next_page_text"
     text="Proxima fala"
     animation="glitch"
-    y="480"
+    y="500"
     x="640"
-    on_click="set($fala, 'oi')"
+    on_click="set(fala, 'oi')"
   />
 </page>
