@@ -11,7 +11,7 @@
       id="clickermilhao"
       x="center"
       y="center"
-      text="$pontos"
+      text="$pontosmillion"
       on_click="set(pontosmillion, $pontosmillion + 1)"
       />
   </fab-if>
