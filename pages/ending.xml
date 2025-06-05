@@ -1,7 +1,7 @@
 <page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="textfinal"
-    text="Ímpio, grande ímpio. Tu passara longos anos com sede do perdão, e agora que tens a chance de finalmente tê-lo tu lutas veementemente por isso. Ímpio, diga-me sem mentir, quantas pessoas matastes em vida?"
+    text="Ímpio, grande ímpio. Tu passara longos anos com sede do perdão, e agora que tens a chance de finalmente tê-lo tu lutas veementemente por isso. Ímpio, ou devo dizer, Fuhrer, diga-me sem mentir, quantas pessoas matastes em vida?"
     color="white"
     x="center"
     y="center"
@@ -22,7 +22,7 @@
     x="45"
     y="480"
     animation="glitch"
-
+    
     
   /> 
 </page>
