@@ -6,7 +6,7 @@
     animation="fade-in"
     color="white" 
     font-size="24" />
-  <fab-if when="$pontosmillion <= 11000000">
+  <fab-if when="$pontosmillion < 11000000">
     <agent
       id="clickermilhao"
       x="center"
@@ -15,7 +15,7 @@
       on_click="set(pontosmillion, $pontosmillion + 1)"
       />
   </fab-if>
-  <fab-if when="$pontosmillion > 1">
+  <fab-if when="$pontosmillion >= 1">
     <agent 
       id="msgfinallie"
       x="center"
