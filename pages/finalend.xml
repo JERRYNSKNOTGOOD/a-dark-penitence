@@ -1,5 +1,6 @@
 <page id="finalend" bg_color="black">
-  <agent id="mensagemfinal"
+  <agent 
+    id="mensagemfinal"
     x="center"
     y="center"
     text="$finalmsg1" 
