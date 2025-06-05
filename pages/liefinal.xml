@@ -2,7 +2,8 @@
   <agent id="titulo" 
     x="center" 
     y="center" 
-    text="Página liefinal" 
+    text="Suicídio..." 
+    animation="fade-in"
     color="white" 
     font-size="24" />
 </page>
