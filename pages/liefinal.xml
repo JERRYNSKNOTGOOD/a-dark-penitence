@@ -1,9 +1,10 @@
 <page id="liefinal" bg_color="black">
   <agent id="titulo" 
     x="center" 
-    y="center" 
-    text="Suicídio..." 
+    y="70" 
+    text="Suicídio... Que triste. Tua penintência é clicar no botāo 11 milhões de vezes..." 
     animation="fade-in"
     color="white" 
     font-size="24" />
+  
 </page>
