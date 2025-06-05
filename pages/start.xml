@@ -10,7 +10,7 @@
    
   <agent
     id="next_page_text"
-    text="Proxima Pagina"
+    text="Proxima fala"
     animation="glitch"
     y="480"
     x="640"
