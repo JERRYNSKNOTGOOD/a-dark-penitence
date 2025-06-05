@@ -16,4 +16,21 @@
     x="640"
     on_click="set(fala1, $fala2)"
   />
+   <fab-if when="fala1 === fala2"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </page>
