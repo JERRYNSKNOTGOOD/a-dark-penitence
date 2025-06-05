@@ -1,9 +1,9 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="$fala"
+    text="$fala a"
     color="white"
-    x="0"
+    x="center"
     y="480"
     font-size="25"
   />
