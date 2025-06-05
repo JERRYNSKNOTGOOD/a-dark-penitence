@@ -1,7 +1,7 @@
 <page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
-    id="teste"
-    text="Hello World Ending"
+    id="textfinal"
+    text="Você tem muita esperança, você chega no teu objetivo de forma gananciosa. Típico de humanos... Bom, já que você conseguiu pelo teste do teste, agora o verdadeiro desafio começará... Diga-me, caro Furher, quantas pessoas tu já matastes?"
     color="white"
     x="center"
     y="center"
