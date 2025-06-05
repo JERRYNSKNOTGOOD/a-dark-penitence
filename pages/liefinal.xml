@@ -1,8 +1,0 @@
-<page id="liefinal" bg_color="black">
-  <agent id="titulo"
-    x="center"
-    y="center" 
-    text="Página liefinal" 
-    color="white" 
-    font-size="24" />
-</page>
