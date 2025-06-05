@@ -9,7 +9,7 @@
   />
 
   <agent
-    id="umapessoa"
+    id="mentira"
     text="1 pessoa(eu mesmo)"
     animation="glitch"
     y="480"
@@ -17,7 +17,7 @@
     on_click="goToPage('liefinal')"
   />
   <agent
-    id="11milh"
+    id="verdade"
     text = "11 milhões"
     x="45"
     y="480"
@@ -25,4 +25,16 @@
     on_click="goToPage('finalend')"
 
   /> 
+
+
+
+
+
+
+
+
+
+
+
+  
 </page>
