@@ -7,7 +7,7 @@
     y="450"
     font-size="20"
   />
-  <fab-if when="not fala1 = fala2" 
+  <fab-if when="not fala1 = fala2" >
   <agent
     id="next_page_text"
     text="Proxima fala"
