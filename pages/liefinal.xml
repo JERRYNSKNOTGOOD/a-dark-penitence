@@ -1,5 +1,4 @@
 <page id="liefinal" bg_color="black">
-  "set(pontos, 0)"
   <agent id="titulo" 
     x="center" 
     y="70" 
@@ -7,5 +6,13 @@
     animation="fade-in"
     color="white" 
     font-size="24" />
-  
+  <fab-if when="$pontos <= 11000000">
+    <agent
+      id="clickermilhao"
+      x="center"
+      y="center"
+      text text="$pontos"
+      on_click="set(pontos, $pontos + 1"
+      />
+  </fab-if>
 </page>
