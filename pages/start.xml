@@ -1,7 +1,7 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="$fala"
+    text="$fala1"
     color="white"
     x="0"
     y="480"
@@ -14,6 +14,6 @@
     animation="glitch"
     y="500"
     x="640"
-    on_click="set(fala, 'oi')"
+    on_click="set(fala1, $fala2)"
   />
 </page>
