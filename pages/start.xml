@@ -23,8 +23,7 @@
        text="fazer penitência"
        x="600"
        y="550"
-       on_click="goToPage"('middle')"
-       
+       on_click="goToPage"('middle')" 
      />
    </fab-if>
 
