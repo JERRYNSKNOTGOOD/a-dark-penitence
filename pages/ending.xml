@@ -1,15 +1,15 @@
 <page id="ending" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="textfinal"
-    text="Você tem muita esperança, você chega no teu objetivo de forma gananciosa. Típico de humanos... Bom, já que você conseguiu pelo teste do teste, agora o verdadeiro desafio começará... Diga-me, caro Furher, quantas pessoas tu já matastes?"
+    text="Ímpio, grande ímpio. Tu passara longos anos com sede do perdão, e agora que tens a chance de finalmente tê-lo tu lutas veementemente por isso. Ímpio, diga-me sem mentir, quantas pessoas matastes em vida?"
     color="white"
     x="center"
     y="center"
-    font-size="70"
+    font-size="25"
   />
 
   <agent
-    id="next_page_text"
+    id=""
     text="Primeira Pagina"
     animation="glitch"
     y="480"
