@@ -2,7 +2,7 @@
   <config font-family="Schoolbell" />
 
   <property name="pontos" default="0" />
-  <property name="fala" default="oi" />
+  <property name="fala" default="Os dias no Inferno são piores que todos os dias que vivi na Terra... Se eu tivesse uma segunda chance..." />
 
   <start />
   <middle />
