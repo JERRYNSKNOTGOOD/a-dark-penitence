@@ -9,7 +9,7 @@
   />
 
   <agent
-    id="1"
+    id="1pessoa"
     text="1 pessoa(eu mesmo)"
     animation="glitch"
     y="480"
