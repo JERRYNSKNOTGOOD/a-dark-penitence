@@ -12,7 +12,7 @@
       x="center"
       y="center"
       text="$pontos"
-      on_click="set(pontos, $pontos + 1"
+      on_click="set(pontos, $pontos + 1)"
       />
   </fab-if>
 </page>
