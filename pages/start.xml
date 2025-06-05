@@ -21,7 +21,7 @@
   
    <fab-if when="fala1 = fala2">
      <agent 
-       id = "botao pular pagina"
+       id = "botaopularpagina"
        text="fazer penitência"
        x="600"
        y="550"
