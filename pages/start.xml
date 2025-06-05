@@ -16,6 +16,7 @@
     x="680"
     on_click="set(fala1, $fala2)"
   />
+  </fab-if>
    <fab-if when="fala1 = fala2">
      <agent 
        id = "botao pular pagina"
