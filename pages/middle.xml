@@ -1,19 +1,28 @@
 <page id="middle" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
-    id="teste"
-    text="Hello World Middle"
+    id="objective"
+    text="Objetivo: dar 10 clicks"
     color="white"
     x="center"
-    y="center"
-    font-size="70"
+    y="0"
+    font-size="30"
   />
-
+  <agent
+    id="clickador1"
+    x="center"
+    y="center"
+    text="clique em mim:3"
+    font-size="70"
+    on_click = "set(pontos, $pontos + 1)"
+  />
+<fab-if when="$pontos >= 10">
   <agent
     id="next_page_text"
     text="Proxima Pagina"
     animation="glitch"
     y="480"
-    x="640"
-    
+    x="640"  
+    on_click="goToPage('ending')"
   />
+</fab-if>
 </page>
