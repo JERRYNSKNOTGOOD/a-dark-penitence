@@ -2,7 +2,7 @@
   <config font-family="Schoolbell" />
 
   <property name="pontos" default="0" />
-  <property name="falas" default=["teste1", "teste2"] />
+  <property name="falas" default= '["teste1", "teste2"]' />
   <property name="player" default="" />
 
   <start />
