@@ -14,6 +14,6 @@
     animation="glitch"
     y="500"
     x="640"
-    on_click="set(fala1, $fala2)"
+    on_click="set(fala1, fala2)"
   />
 </page>
