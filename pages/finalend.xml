@@ -1,7 +1,15 @@
 <page id="finalend" bg_color="black">
-  <agent id="mensagem final" x="center" y="center" text="Página finalend" color="white" font-size="24" />
+  <agent id="mensagem final"
+    x="center"
+    y="center"
+    text="$finalmsg1" 
+    color="white" 
+    font-size="24" />
   <agent
-    id=""
+    id="faladohit"
+    x="center"
+    y="center"
+    text=""
     
     />
 </page>
