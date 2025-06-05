@@ -28,13 +28,3 @@
   /> 
 
 </page>
-
-<page id="finalend" bg_image="cemetery-arrowsign.png" >
-  <agent
-    id="finaldialogue"
-    x="center"
-    y="center"
-    text="$finalmsg1"
-    /> 
- 
-</page>
