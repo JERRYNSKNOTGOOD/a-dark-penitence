@@ -10,5 +10,6 @@
     x="600"
     y="480"
     text="final verdadeiro"
+    font font-size="1"
   />
 </page>
