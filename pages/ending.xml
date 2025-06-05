@@ -22,6 +22,8 @@
     x="45"
     y="480"
     animation="glitch"
+    on_click="goToPage('finalend')"
+
     
     
   /> 
