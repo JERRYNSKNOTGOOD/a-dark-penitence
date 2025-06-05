@@ -7,7 +7,7 @@
     y="450"
     font-size="20"
   />
-  <fab-if when="not fala1 === fala2" 
+  <fab-if when="not fala1 = fala2" 
   <agent
     id="next_page_text"
     text="Proxima fala"
@@ -16,11 +16,13 @@
     x="680"
     on_click="set(fala1, $fala2)"
   />
-   <fab-if when="fala1 === fala2">
+   <fab-if when="fala1 = fala2">
      <agent 
        id = "botao pular pagina"
        text="fazer penitência"
-       on_ on_click="gotopage"('middle')"
+       x="600"
+       y="550"
+       on_ on_click="goToPage"('middle')"
        
      />
    </fab-if>
