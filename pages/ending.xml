@@ -19,7 +19,9 @@
   <agent
     id="11milh"
     text = "11 milhões"
-  
+    x="45"
+    y="480"
+    animation="glitch"
 
     
   /> 
