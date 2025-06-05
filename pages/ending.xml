@@ -9,11 +9,15 @@
   />
 
   <agent
-    id=""
-    text="Primeira Pagina"
+    id="1"
+    text="1 pessoa(eu mesmo)"
     animation="glitch"
     y="480"
     x="640"
   
   />
+  <agent
+    
+    
+  /> 
 </page>
