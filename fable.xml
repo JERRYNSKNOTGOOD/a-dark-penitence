@@ -2,7 +2,7 @@
   <config font-family="Schoolbell" />
 
   <property name="pontos" default="0" />
-  <property name="player" default="" />
+  <property name="fala" default="oi" />
 
   <start />
   <middle />
