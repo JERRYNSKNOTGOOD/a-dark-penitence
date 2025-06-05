@@ -24,7 +24,5 @@
     animation="glitch"
     on_click="goToPage('finalend')"
 
-    
-    
   /> 
 </page>
