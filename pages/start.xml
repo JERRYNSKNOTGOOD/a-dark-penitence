@@ -1,11 +1,11 @@
 <page id="start" bg_image="tech-bg-lab.png" bg_music="osts-vilo.mp3">
   <agent
     id="teste"
-    text="Hello World"
+    text="Olá, ímpio!"
     color="white"
     x="center"
-    y="center"
-    font-size="70"
+    y=""
+    font-size="25"
   />
 
   <agent
