@@ -6,13 +6,13 @@
     animation="fade-in"
     color="white" 
     font-size="24" />
-  <fab-if when="$pontos <= 11000000">
+  <fab-if when="$pontosmillion <= 11000000">
     <agent
       id="clickermilhao"
       x="center"
       y="center"
       text="$pontos"
-      on_click="set(pontos, $pontos + 1)"
+      on_click="set(pontosmillion, $pontosmillion + 1)"
       />
   </fab-if>
 </page>
