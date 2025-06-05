@@ -11,7 +11,7 @@
     id="clickador1"
     x="center"
     y="center"
-    text="clique em mim:3"
+    text="cliques: $pontos"
     font-size="70"
     on_click = "set(pontos, $pontos + 1)"
   />
