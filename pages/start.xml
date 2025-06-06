@@ -12,7 +12,6 @@
   <agent
     id="next_page_text"
     text="Proxima fala"
-    animation="glitch"
     y="550"
     x="680"
     on_click="set(fala1, $fala2)"
