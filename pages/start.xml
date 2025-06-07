@@ -12,12 +12,12 @@
     x="center"
     y="10"
     text="APERTE $index"
-    on_click="set(index, $index + 1)"
+    on_click="set(char0, $char0 + 1)"
   
     
     />
     <fab-for each="i in $alfabeto" index = "pos">
-     <fab-if when="$pos = $index">
+     <fab-if when="$pos = $char0">
       <agent
         id = "selectorword"
         x = "center"
@@ -25,12 +25,14 @@
         text="$i" 
         font-size="70"
         /> 
+     </fab-if>
+      <fab-if when="$pos = $char1"
        <agent 
          id="selector2"
          x="center"
          y="400"
          />
-     </fab-if>
+     
     </fab-for>
 
     
