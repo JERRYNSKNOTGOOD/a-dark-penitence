@@ -11,7 +11,7 @@
     id="jumpbtn"
     x="center"
     y="10"
-    text="APERTE"
+    text="APERTE $index"
     on_click="set(index, $index + 1)"
     
     
