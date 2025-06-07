@@ -22,7 +22,7 @@
         x = "center"
         y = "center"
         on_click="set(char0, $char0 + 1); set(actual0, $i)"
-        text="$i " 
+        text="$i" 
         font-size="70"
         /> 
      </fab-if>
