@@ -9,7 +9,7 @@
   />
   <agent 
     id="selectorword"
-    text="$alfabeto[$index]"
+    text="$alfabeto{$index}"
     x="center"
     y="center"
 
