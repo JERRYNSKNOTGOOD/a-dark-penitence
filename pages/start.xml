@@ -21,7 +21,7 @@
         id = "selectorword"
         x = "center"
         y = "center"
-        text="$i ao" 
+        text="$index" 
         />    
     </fab-for>
 
