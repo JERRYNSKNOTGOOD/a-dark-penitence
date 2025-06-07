@@ -13,7 +13,8 @@
     y="10"
     text="APERTE $index"
     on_click="set(index, $index + 1)"
-    <fab-if when="$index > 3; set(index, 0)">
+    <fab-if when="$index > 3">
+      "set(index, 0)"
       
     </fab-if>
     
