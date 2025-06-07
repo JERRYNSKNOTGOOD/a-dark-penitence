@@ -7,7 +7,14 @@
     y="450"
     font-size="20"
   />
-  
+  <agent 
+    id="selectorword"
+    text="$alfabeto[$index]"
+    x="center"
+    y="center"
+
+    
+    />
   <fab-if when=" $fala1 != $fala2" >
   <agent
     id="next_page_text"
