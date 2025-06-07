@@ -23,7 +23,7 @@
         y = "center"
         text="$i" 
         font-size="70"
-        on_click="set(char0, $char0 + 1), set(actual0, $i)"
+        on_click="set(char0, $char0 + 1); set(actual0, $i)"
         /> 
      </fab-if>
       
@@ -34,7 +34,7 @@
   <fab-if when=" $fala1 != $fala2" >
   <agent
     id="next_page_text"
-    text="Proxima fala"
+    text="Proxima fala $actual0"
     y="550"
     x="680"
     on_click="set(fala1, $fala2)"
