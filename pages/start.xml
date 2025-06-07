@@ -22,7 +22,7 @@
         id = "selectorword"
         x = "center"
         y = "center"
-        text="" 
+        text="$alfabeto[$i]" 
         font-size="70"
         />   
      </fab-if>
