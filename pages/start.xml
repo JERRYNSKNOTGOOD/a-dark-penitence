@@ -21,7 +21,7 @@
         id = "selectorword"
         x = "center"
         y = "center"
-        on_click="set(char0, $i); set(actual0, pos)"
+        on_click="set(char0, $char0 + 1); set(actual0, pos)"
         text="$i" 
         font-size="70"
         /> 
