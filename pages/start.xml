@@ -7,11 +7,18 @@
     y="450"
     font-size="20"
   />
-  <agent 
-    id="selectorword"
-    text="$alfabeto[$index]"
-    x="center"
-    y="center"
+  
+    <fab-for each="i in $alfabeto">
+      <fab-if when="$i = a">
+      <agent
+        id = "selectorword"
+        x = "center"
+        y = "center"
+         
+        />
+      </fab-if>
+      
+    </fab-for>
 
     
     />
