@@ -12,7 +12,7 @@
     x="center"
     y="10"
     text="APERTE $char0"
-    on_click="set(char0, $char0 + 1)"
+    on_click="set(char0, $char0 + 1) ; set(char1, $char1 + 2)"
   
     
     />
