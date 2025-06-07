@@ -7,16 +7,22 @@
     y="450"
     font-size="20"
   />
-  
+  <agent 
+    id="jumpbtn"
+    x="center"
+    y="10"
+    text="APERTE"
+    on_click="set(index, $index + 1)"
+    
+    
+    />
     <fab-for each="i in $alfabeto">
       <agent
         id = "selectorword"
         x = "center"
         y = "center"
         text="$i ao" 
-        />
-    
-      
+        />    
     </fab-for>
 
     
