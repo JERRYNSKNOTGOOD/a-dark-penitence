@@ -26,14 +26,14 @@
         font-size="70"
         /> 
      </fab-if>
-      <fab-if when="$pos = $char1"
+      <fab-if when="$pos = $char1">
        <agent 
          id="selector2"
          x="400"
          y="400"
          text="$i"
          />
-     
+      </fab-if>
     </fab-for>
 
     
