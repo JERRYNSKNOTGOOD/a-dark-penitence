@@ -29,7 +29,7 @@
       <fab-if when="$pos = $char1"
        <agent 
          id="selector2"
-         x="center"
+         x="400"
          y="400"
          text="$i"
          />
