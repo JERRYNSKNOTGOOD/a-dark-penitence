@@ -16,13 +16,13 @@
   
     
     />
-    <fab-for each="i in $alfabeto">
-     <fab-if when="$i != $index">
+    <fab-for each="i in $alfabeto" index = "pos">
+     <fab-if when="$pos != $index">
       <agent
         id = "selectorword"
         x = "center"
         y = "center"
-        text="$alfabeto[$i]" 
+        text="$i" 
         font-size="70"
         />   
      </fab-if>
