@@ -30,7 +30,7 @@
     </fab-for>
 
     
-    />
+    
   <fab-if when=" $fala1 != $fala2" >
   <agent
     id="next_page_text"
