@@ -9,16 +9,16 @@
  <property name="finalmsg1" default="Tu fostes sincero em tua resposta, pois claro, não há como mentir para o pai da mentira... ou como fugir do Inferno. Tolo viverá para todo o sempre buscando por algo que não pode. Tolo ímpio."/>
   
   <property name="alfabeto" default= '["a", "b", "c"]'/>
-  <property name="actual0" default = "a"
-  <property name="actual1" default = "a"
+  <property name="actual0" default = "a"/>
+  <property name="actual1" default = "a"/>
 
 
     
   <property name="char0" default = "0"/>
   <property name="char1" default = "0"/>
-  <property name="char2" default="0"
-  <property name="char3" default="0"
-  <property name="char4" default = "0"
+  <property name="char2" default="0"/>
+  <property name="char3" default="0"/>
+  <property name="char4" default = "0"/>
   <start />
   <middle />
   <ending />
