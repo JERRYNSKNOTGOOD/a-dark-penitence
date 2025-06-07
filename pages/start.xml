@@ -14,7 +14,7 @@
     text="APERTE $char0"
       
     />
-  <
+  
     <fab-for each="i in $alfabeto" index = "pos">
      <fab-if when="$pos = $char0">
       <agent
