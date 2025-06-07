@@ -11,7 +11,7 @@
     id="jumpbtn"
     x="center"
     y="10"
-    text="APERTE $actual0$actual1"
+    text="APERTE $actual0 $actual1"
       
     />
   
