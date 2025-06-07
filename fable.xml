@@ -1,5 +1,5 @@
 <fable>
-  <config font-family="Schoolbell" />
+  <config font-family="Roboto" />
 
   <property name="pontos" default="0" />
   <property name="pontosmillion" default = "0"/>
