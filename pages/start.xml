@@ -22,7 +22,7 @@
         id = "selectorword"
         x = "center"
         y = "center"
-        text="$i" 
+        text="" 
         font-size="70"
         />   
      </fab-if>
