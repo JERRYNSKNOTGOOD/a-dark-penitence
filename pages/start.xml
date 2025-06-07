@@ -26,9 +26,7 @@
         on_click="set(char0, $char0 + 1)"
         /> 
      </fab-if>
-      <fab-if when="$pos = $char1">
-       
-      </fab-if>
+      
     </fab-for>
 
     
