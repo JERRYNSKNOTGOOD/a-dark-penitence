@@ -24,7 +24,12 @@
         y = "center"
         text="$i" 
         font-size="70"
-        />   
+        /> 
+       <agent 
+         id="selector2"
+         x="center"
+         y="400"
+         />
      </fab-if>
     </fab-for>
 
