@@ -11,7 +11,7 @@
     id="jumpbtn"
     x="center"
     y="10"
-    text="APERTE $char0"
+    text="APERTE $actual0$actual1"
       
     />
   
@@ -23,7 +23,7 @@
         y = "center"
         text="$i" 
         font-size="70"
-        on_click="set(char0, $char0 + 1)"
+        on_click="set(char0, $char0 + 1); set(actual0, $i)"
         /> 
      </fab-if>
       
