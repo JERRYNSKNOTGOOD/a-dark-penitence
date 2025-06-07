@@ -23,6 +23,7 @@
         x = "center"
         y = "center"
         text="$i" 
+        font-size="70"
         />   
      </fab-if>
     </fab-for>
