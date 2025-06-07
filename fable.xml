@@ -8,6 +8,7 @@
   <property name="fala2" default="Ímpio, eu ouvi tuas lamentações! Eu, o grande e pai da bondade, eu que sou mais que aquele qie te criou, Eu! Lúcifer! Venho te dar a segunda chance a qual tanto esperas. Venha, ímpio, faça a penitência de clicar o botão 10 vezes e ascenda aos céus!" />
  <property name="finalmsg1" default="Tu fostes sincero em tua resposta, pois claro, não há como mentir para o pai da mentira... ou como fugir do Inferno. Tolo viverá para todo o sempre buscando por algo que não pode. Tolo ímpio."/>
   <property name="alfabeto" default="['a', 'b', 'c'] "/>
+  <property name="index" default="0"/>
   <start />
   <middle />
   <ending />
