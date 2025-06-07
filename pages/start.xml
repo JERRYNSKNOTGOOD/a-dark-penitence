@@ -31,6 +31,7 @@
          id="selector2"
          x="center"
          y="400"
+         text="$i"
          />
      
     </fab-for>
