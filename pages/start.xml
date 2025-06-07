@@ -9,12 +9,11 @@
   />
   
     <fab-for each="i in $alfabeto">
-    
       <agent
         id = "selectorword"
         x = "center"
         y = "center"
-        text="$i" 
+        text="$i ao" 
         />
     
       
