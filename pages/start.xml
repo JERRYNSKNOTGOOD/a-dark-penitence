@@ -16,13 +16,14 @@
     />
 
   
+  
     <fab-for each="i in $alfabeto" index = "pos">
      <fab-if when="$pos = $char0">
       <agent
         id = "selectorword"
         x = "center"
         y = "center"
-        on_click="set(char0, $char0 + 1); set(actual0, $i )"
+        on_click=""
         text="$i" 
         font-size="70"
         /> 
