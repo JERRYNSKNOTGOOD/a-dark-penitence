@@ -10,7 +10,7 @@
   <agent
     id="oeksj"
     x="center"
-    y="50"
+    y="70"
     text="RESET"
     on_click= "reset()"
     />
