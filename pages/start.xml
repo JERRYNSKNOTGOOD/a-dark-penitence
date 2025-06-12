@@ -12,7 +12,8 @@
     x="center"
     y="70"
     text="$actual0"
-    on_click= "set(char0, $char0 + 3); set(actual0, $alfabeto[$char0])"
+    on_click= "set(char0, $char0 + 1); set(actual0, $alfabeto[$char0])"
+    
     />
 
   
