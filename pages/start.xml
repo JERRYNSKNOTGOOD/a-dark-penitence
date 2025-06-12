@@ -16,12 +16,6 @@
     />
   
     <fab-for each="i in $alfabeto" index = "pos">
-      <agent 
-        id="idjdj"
-        y="50"
-        x="center"
-        text="$actual0"
-        />
      <fab-if when="$pos = $char0">
       <agent
         id = "selectorword"
@@ -31,6 +25,13 @@
         text="$i" 
         font-size="70"
         /> 
+       <agent 
+         id="ufudjd"
+         x="center"
+         y="20"
+         text="$actual0$actual1"
+         
+         />
      </fab-if>
       
     </fab-for>
