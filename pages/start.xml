@@ -7,7 +7,12 @@
     y="450"
     font-size="20"
   />
-  
+  <agent
+    id="oeksj"
+    x="center"
+    y="50"
+    on_click= "reset()"
+    />
   
     <fab-for each="i in $alfabeto" index = "pos">
      <fab-if when="$pos = $char0">
@@ -15,7 +20,7 @@
         id = "selectorword"
         x = "center"
         y = "center"
-        on_click="set(char0, $char0 + 1); set(actual0, $i)"
+        on_click="set(char0, $char0 + 1); set(actual0, $i )"
         text="$i" 
         font-size="70"
         /> 
@@ -23,7 +28,7 @@
          id="ufudjd"
          x="center"
          y="20"
-         text="$actual0"
+         text="$actual0 "
          
          />
      </fab-if>
