@@ -12,7 +12,7 @@
     x="center"
     y="70"
     text="$actual0 "
-    on_click= "set(char0, $char0 + 1); setIf("
+    on_click= "set(char0, $char0 + 1); set(actual0, $alfabeto[$char0])"
     />
   
     <fab-for each="i in $alfabeto" index = "pos">
