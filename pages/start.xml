@@ -18,7 +18,7 @@
   
   
     <fab-for each="i in $alfabeto" index = "pos">
-     <fab-if when="$pos = $char0">
+     <fab-if when="$pos = 0">
       <agent
         id = "selectorword"
         x = "center"
