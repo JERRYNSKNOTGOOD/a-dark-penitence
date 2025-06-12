@@ -11,7 +11,7 @@
     id="oeksj"
     x="center"
     y="70"
-    text="RESET"
+    text="$alfabeto[1]"
     on_click= "reset()"
     />
   
@@ -29,7 +29,7 @@
          id="ufudjd"
          x="center"
          y="20"
-         text="$actual0 $actual1"
+         text="$actual0 $actual1 $i"
          on_click="setIf($pos = $char0, actual0, $i)"
          
          />
