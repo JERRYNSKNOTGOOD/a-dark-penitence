@@ -29,7 +29,7 @@
          id="ufudjd"
          x="center"
          y="20"
-         text="$actual0$actual1"
+         text="$actual0$"
          
          />
      </fab-if>
