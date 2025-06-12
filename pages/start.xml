@@ -25,14 +25,6 @@
         text="$i" 
         font-size="70"
         /> 
-       <agent 
-         id="ufudjd"
-         x="center"
-         y="20"
-         text="$actual0 $actual1 $i"
-         on_click="setIf($pos = $char0, actual0, $i)"
-         
-         />
      </fab-if>
       
     </fab-for>
