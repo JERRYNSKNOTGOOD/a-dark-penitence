@@ -11,7 +11,7 @@
     id="oeksj"
     x="center"
     y="70"
-    text="$alfabeto[1]"
+    text=" $alfabeto[1] "
     on_click= "reset()"
     />
   
