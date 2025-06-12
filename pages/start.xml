@@ -29,7 +29,7 @@
          id="ufudjd"
          x="center"
          y="20"
-         text="$actual0"
+         text="$actual0 $actual1"
          on_click="setIf($pos = $char1, char, $char + 1)"
          
          />
