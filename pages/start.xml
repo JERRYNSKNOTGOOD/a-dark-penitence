@@ -11,8 +11,8 @@
     id="oeksj"
     x="center"
     y="70"
-    text=" $alfabeto[1] "
-    on_click= "reset()"
+    text="$actual0 "
+    on_click= "set(char0, $char0 + 1); setIf("
     />
   
     <fab-for each="i in $alfabeto" index = "pos">
