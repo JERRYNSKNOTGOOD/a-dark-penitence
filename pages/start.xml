@@ -7,13 +7,7 @@
     y="450"
     font-size="20"
   />
-  <agent 
-    id="jumpbtn"
-    x="center"
-    y="10"
-    text=""
-      
-    />
+  
   
     <fab-for each="i in $alfabeto" index = "pos">
      <fab-if when="$pos = $char0">
