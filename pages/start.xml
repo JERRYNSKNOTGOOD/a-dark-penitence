@@ -11,11 +11,17 @@
     id="jumpbtn"
     x="center"
     y="10"
-    text="$actual0$actual1"
+    text=""
       
     />
   
     <fab-for each="i in $alfabeto" index = "pos">
+      <agent 
+        id="idjdj"
+        y="50"
+        x="center"
+        text="$actual0"
+        />
      <fab-if when="$pos = $char0">
       <agent
         id = "selectorword"
